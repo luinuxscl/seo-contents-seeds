@@ -25,7 +25,7 @@ Un paquete Laravel para obtener ideas ("seeds") para la creación de contenido S
 ### Pasos de instalación
 
 ```bash
-composer require luinuxscl/seo-content-seeds
+composer require luinuxscl/seo-contents-seeds
 ```
 
 Publica los archivos de configuración y migraciones:

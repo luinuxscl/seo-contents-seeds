@@ -1,5 +1,5 @@
 {
-    "name": "luinuxscl/seo-content-seeds",
+    "name": "luinuxscl/seo-contents-seeds",
     "description": "Paquete Laravel para obtener ideas para la creación de contenido SEO desde diversas fuentes externas",
     "type": "library",
     "license": "MIT",
@@ -17,13 +17,11 @@
         "illuminate/http": "^10.0|^11.0|^12.0",
         "guzzlehttp/guzzle": "^7.5"
     },
-
     "autoload": {
         "psr-4": {
             "Luinuxscl\\SeoContentSeeds\\": "src/"
         }
     },
-
     "extra": {
         "laravel": {
             "providers": [

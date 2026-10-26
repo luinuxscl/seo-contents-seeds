@@ -1,6 +1,6 @@
 # ROADMAP: Desarrollo del Paquete SEO Content Seeds
 
-Este documento proporciona una planificación detallada para el desarrollo del paquete `luinuxscl/seo-content-seeds`. Servirá como guía durante todo el proceso de desarrollo y se actualizará periódicamente para reflejar el progreso.
+Este documento proporciona una planificación detallada para el desarrollo del paquete `luinuxscl/seo-contents-seeds`. Servirá como guía durante todo el proceso de desarrollo y se actualizará periódicamente para reflejar el progreso.
 
 ## Estado Actual
 
